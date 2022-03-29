@@ -1,6 +1,6 @@
-import Header from './components/Header';
-import Main from './components/Main';
-import Basket from './components/Basket';
+import Header from './components/header/Header';
+import Main from './components/main/Main';
+import Basket from './components/basket/Basket';
 import { useState, useEffect } from 'react';
 import './index.css';
 import Dropdown from 'react-bootstrap/Dropdown';
