@@ -1,0 +1,13 @@
+.title {
+    margin-top:15% !important;
+    margin-left: 15% !important;
+}
+
+.horizontalRule {
+    margin-left: 15% !important;
+    width: 20% !important;
+    border: none !important;
+    height: 3px !important;
+    color: rgb(46, 109, 226) !important;
+    opacity: 1;
+}

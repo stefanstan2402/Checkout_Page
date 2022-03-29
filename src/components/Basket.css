@@ -1,0 +1,39 @@
+.btn-success {
+    background-color: rgb(40, 161, 40) !important;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+}
+
+.basket {
+    margin: 2% !important;
+}
+
+.hrBasket {
+    border: none !important;
+    height: 3px !important;
+    color: #000 !important;
+    opacity: 1;
+}
+
+.btn {
+    margin: 0 2% !important;
+}
+
+.btn-secondary {
+    border-radius: 40px !important;
+    height: 35px !important;
+}
+
+.block{
+    width: 96%;
+}
+
+.titleCart {
+    padding-top: 3% !important;
+    padding-left: 3% !important;
+}
+
+.textInfo {
+    font-size: 15px !important;
+    padding-bottom: 5px !important;
+}

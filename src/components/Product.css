@@ -1,0 +1,25 @@
+.propCard {
+    margin: 3% !important;
+    border: none !important;
+}
+
+.colorPrice {
+    color: blue;
+}
+
+
+.bodyCards {
+    margin-left: 3% !important;
+    padding-left: 3% !important;
+}
+
+.float-child {
+    width:33%;
+    float: left;
+}
+
+.btn-success {
+    background-color: rgb(40, 161, 40) !important;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+}
