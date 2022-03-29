@@ -61,7 +61,7 @@ export default function Basket(props) {
                 </div>
 
                 <div className="col-3 text-center">
-                  {currency} {fx(item.price).from("USD").to(currency).toFixed(2)}
+                  {currency} {item.qty} * {fx(item.price).from("USD").to(currency).toFixed(2)}
                 </div>
               </div>
               <br />
